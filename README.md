@@ -1,16 +1,7 @@
-# math_game
+# Math Game
 
-A new Flutter project.
+Math Game
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Math_Game/assets/146417248/f6dd2af4-fc5c-426d-9175-f9915b68837c)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/BilalSevinc16/Math_Game/assets/146417248/221c4699-a2f6-4619-9e32-24257f392fdd)
